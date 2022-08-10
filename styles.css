@@ -1,0 +1,18 @@
+#navbarNavDropdown{
+    flex: none !important;
+}
+
+#dropdownMenu{
+    margin-right: 1rem;
+}
+
+.navbar{
+    margin-bottom: 2rem;
+}
+
+.card{
+    
+}
+.card img{
+    width: 18rem;
+}
